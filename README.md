@@ -38,6 +38,18 @@ Stored output successfully in CSV format.
 - quotes_dataset.csv
 
 ---
+---
+
+## Sample Output
+
+| Quotes |
+|--------|
+| "The world as we have created it is a process of our thinking." |
+| "It is our choices that show what we truly are." |
+| "Imperfection is beauty, madness is genius." |
+| "Try not to become a man of success." |
+
+Dataset created successfully!
 
 ## Conclusion
 This project helped me understand web scraping and dataset creation using Python.
